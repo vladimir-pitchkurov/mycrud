@@ -5,7 +5,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-    <title>Books Page</title>
+    <title>Users Page</title>
     <style type="text/css">
         .tg {
             border-collapse: collapse;
